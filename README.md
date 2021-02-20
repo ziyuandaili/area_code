@@ -1,5 +1,4 @@
-# area_code
-2020年中国全国5级行政区划（省、市、县、镇、村）
+# 2020年中国全国5级行政区划（省、市、县、镇、村）
 数据来源 中华人民共和国国家统计局 http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/
 最新数据量 704750 （2019年10月31日）
 CSV格式 area_code_2020.csv.gz
